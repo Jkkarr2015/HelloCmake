@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProtobufSettings">
+    <option name="includePaths">
+      <list>
+        <option value="$USER_HOME$/Downloads/protobuf-all-3.5.0/protobuf-3.5.0" />
+      </list>
+    </option>
+  </component>
+</project>
